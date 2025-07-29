@@ -1,2 +1,3 @@
 # leetcode
-jei mano sprendimo kelias sutampa su pačiu optimaliausiu sprendimo keliu (pagal big O notation) tai šalia pavadinimo parašau "(optimal)".
+
+Visi sprendimai yra optimalūs pagal O notation. Įkeliu tik tokiu atveju jei galiu išspręsti pats
